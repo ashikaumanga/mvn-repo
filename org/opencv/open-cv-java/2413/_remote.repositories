@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Dec 29 12:47:06 JST 2016
+open-cv-java-2413.jar>=
+open-cv-java-2413.pom>=
